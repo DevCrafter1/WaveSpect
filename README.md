@@ -1,2 +1,2 @@
 # WaveSpect
-CFSD DATASET
+We will publish more data after the paper is accepted.
