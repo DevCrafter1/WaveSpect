@@ -1,6 +1,6 @@
 # WaveSpect
 __CFSD__: We have uploaded the complete CFSD dataset to the following link: https://github.com/DevCrafter1/WaveSpect/edit/main.<br>
-![alt](WaveSpect/CFSD/data.png)
+![alt](CFSD/data.png)
 __Real Dataset__: To collect real data, we gathered audio data from YouTube. We searched for different playlists related to education, news, entertainment, and philosophy to collect authentic audio for our dataset. Typically, speech datasets consist of single-channel audio data sampled at 16kHz. However, since our data comes from various sources, the sampling rate of the audio ranges between 8kHz and 44kHz. To standardize the data, we used the Librosa library to resample all audio to 16kHz.
 
 __Synthetic Dataset__: We generated synthetic audio samples using eight different TTS systems. Below, we introduce these models: Bark, xTTS2, ChatTTS, EmotiVoice, GPT-SoVITs, MeloTTS, OpenVoice, and Vall-X-E are the eight speech synthesis models, each with distinct characteristics, covering areas from natural language processing and emotional expression to voice transformation and the integration of music and speech. <br>
