@@ -1,5 +1,5 @@
 # WaveSpect
-__CFSD__: We have uploaded the complete CFSD dataset to the following link: https://github.com/DevCrafter1/WaveSpect/edit/main.<br>
+__CFSD__: We have uploaded the complete CFSD dataset to the following link: https://pan.baidu.com/s/1Zq6umHVKmw3Yg2iPrX-gbA .<br>
 
 ![alt](CFSD/data.png)<br>
 
