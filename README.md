@@ -1,6 +1,6 @@
 # WaveSpect
 __Due to commercial licensing restrictions, only part of the data set is allowed to be made public__ <br>
-__CFSD__: We have uploaded the partially CFSD dataset to the following link: https://pan.baidu.com/s/1EGIsp-0IwuBhq3ZqUyAj3w?pwd=cbbp.<br>
+__CFSD__: We have partially uploaded the CFSD dataset to the following link: https://pan.baidu.com/s/1EGIsp-0IwuBhq3ZqUyAj3w?pwd=cbbp.<br>
 
 
 __Real Dataset__: To collect real data, we gathered audio data from YouTube. We searched for different playlists related to education, news, entertainment, and philosophy to collect authentic audio for our dataset. Typically, speech datasets consist of single-channel audio data sampled at 16kHz. However, since our data comes from various sources, the sampling rate of the audio ranges between 8kHz and 44kHz. To standardize the data, we used the Librosa library to resample all audio to 16kHz.<br>
