@@ -1,8 +1,9 @@
 # WaveSpect
-__CFSD__: We have uploaded the complete CFSD dataset to the following link: https://pan.baidu.com/s/1Zq6umHVKmw3Yg2iPrX-gbA .<br>
+__Due to commercial licensing restrictions, only part of the data set is allowed to be made public__ <br>
+__CFSD__: We have uploaded the partially CFSD dataset to the following link: https://pan.baidu.com/s/1EGIsp-0IwuBhq3ZqUyAj3w?pwd=cbbp.<br>
 
 
-__Real Dataset__: To collect real data, we gathered audio data from YouTube. We searched for different playlists related to education, news, entertainment, and philosophy to collect authentic audio for our dataset. Typically, speech datasets consist of single-channel audio data sampled at 16kHz. However, since our data comes from various sources, the sampling rate of the audio ranges between 8kHz and 44kHz. To standardize the data, we used the Librosa library to resample all audio to 16kHz.
+__Real Dataset__: To collect real data, we gathered audio data from YouTube. We searched for different playlists related to education, news, entertainment, and philosophy to collect authentic audio for our dataset. Typically, speech datasets consist of single-channel audio data sampled at 16kHz. However, since our data comes from various sources, the sampling rate of the audio ranges between 8kHz and 44kHz. To standardize the data, we used the Librosa library to resample all audio to 16kHz.<br>
 
 __Synthetic Dataset__: We generated synthetic audio samples using eight different TTS systems. Below, we introduce these models: Bark, xTTS2, ChatTTS, EmotiVoice, GPT-SoVITs, MeloTTS, OpenVoice, and Vall-X-E are the eight speech synthesis models, each with distinct characteristics, covering areas from natural language processing and emotional expression to voice transformation and the integration of music and speech. <br>
 __Bark__: a complete text-to-audio model that adopts a GPT-style architecture akin to AudioLM.  <br>
